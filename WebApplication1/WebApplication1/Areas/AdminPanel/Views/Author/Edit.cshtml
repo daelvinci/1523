@@ -1,0 +1,33 @@
+﻿@model Author
+<div class="container-fluid">
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Authors Edit</h1>
+
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <form asp-action="edit" method="post">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">FullName</label>
+                    <input type="text" asp-for="Name" max-length="35" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Fullname">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <span class="text-danger" asp-validation-for="Name"></span>
+                @*<div asp-validation-summary="ModelOnly" class="text-danger"></div>*@
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">BirthYear</label>
+                    <input type="text" asp-for="BirthYear" max-length="35" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Fullname">
+                  </div>
+                  <button type="submit" class="btn btn-primary">Submit</button>
+                  <span class="text-danger" asp-validation-for="BirthYear"></span>
+                  @*<div asp-validation-summary="ModelOnly" class="text-danger"></div>*@
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+}

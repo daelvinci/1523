@@ -1,0 +1,41 @@
+﻿@model BookReview
+<h2 class="title-lg mb--20 pt--15">ADD A REVIEW</h2>
+<div class="rating-row pt-2">
+    <p class="d-block">Your Rating</p>
+    <span class="rating-widget-block">
+        <input form="reviewForm" type="radio" value="5" asp-for="Rate" id="star1">
+        <label for="star1"></label>
+        <input form="reviewForm" type="radio" value="4" asp-for="Rate" id="star2">
+        <label for="star2"></label>
+        <input form="reviewForm" type="radio" value="3" asp-for="Rate" id="star3">
+        <label for="star3"></label>
+        <input form="reviewForm" type="radio" value="2"  asp-for="Rate" id="star4">
+        <label for="star4"></label>
+        <input form="reviewForm" type="radio" value="1" asp-for="Rate" id="star5">
+        <label for="star5"></label>
+    </span>
+        <span class="text-danger" asp-validation-for="Rate"></span>
+    <form id="reviewForm" method="post" asp-action="review" asp-controller="book" class="mt--15 site-form ">
+        <div class="row">
+            <div class="col-12">
+                <div class="form-group">
+                    <label asp-for="Text">Comment</label>
+                    <textarea asp-for="Text" cols="30" rows="10"
+                              class="form-control"></textarea>
+                              <span class="text-danger" asp-validation-for="Text"></span>
+                </div>
+                <input type="hidden" asp-for="BookId"/>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="submit-btn">
+                    <button type="submit" class="btn btn-black">Post Comment</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}

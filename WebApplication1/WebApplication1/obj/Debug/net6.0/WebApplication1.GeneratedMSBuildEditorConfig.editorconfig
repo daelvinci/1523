@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\SONY\Desktop\41523\WebApplication1\WebApplication1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SONY\Desktop\41523\WebApplication1\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xBY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xBdXRob3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Author/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xBdXRob3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Author/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xBdXRob3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Author/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xBdXRob3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xCb29rXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Book/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xCb29rXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Book/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xCb29rXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xCb29rXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xEYXNoYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Genre/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xHZW5yZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Genre/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xHZW5yZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Genre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xHZW5yZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Genre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xHZW5yZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Slider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTbGlkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Slider/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTbGlkZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Slider/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xTbGlkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Tag/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xUYWdcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Tag/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xUYWdcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Tag/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xUYWdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/Tag/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xUYWdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Areas/AdminPanel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5QYW5lbFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Book/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Shared/BestNewPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJlc3ROZXdQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Shared/BookCartPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJvb2tDYXJ0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Shared/BookModalPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJvb2tNb2RhbFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Shared/BookReviewFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEJvb2tSZXZpZXdGb3JtUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Shared/CheckoutFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENoZWNrb3V0Rm9ybVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Shared/UserUpdatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFVzZXJVcGRhdGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SONY/Desktop/41523/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx

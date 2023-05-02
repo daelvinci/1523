@@ -1,0 +1,29 @@
+﻿@model Author
+<div class="container-fluid">
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Authors Create</h1>
+
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Author</h5>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Author Name: @Model.Name</li>
+                    <li class="list-group-item">Auhtor BirthYear: @Model.BirthYear</li>
+                </ul>
+                <div class="card-body">
+                    <form asp-action="delete" method="post">
+                        <button type="submit" class="card-link">Delete</button>
+                        @*<input type="text" name="Id" hidden value="@Model.Id"/>*@
+                        <a asp-action="index" class="card-link">Go back</a>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
